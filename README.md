@@ -12,7 +12,7 @@ In order to run this program, first on the terminal screen; <br>
 
 <code> git clone https://github.com/SeymaAtmaca/NetworkScanner-With-ShellScript.git </code> <br>
 <code> bash networkScanner.sh.save </code> <br><br>
-commands must be run. <br> <br>
+commands must be run. <br>
 
 After the program runs, the IP address of the relevant device is shown and then other devices connected on the network are shown with their IP addresses. The user is prompted to select a target IP <br><br>
 
