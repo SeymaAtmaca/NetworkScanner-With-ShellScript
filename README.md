@@ -7,7 +7,7 @@
 
 <br>
 
-## Running This Program
+## Running This Program 
 In order to run this program, first on the terminal screen; <br>
 
 <code> git clone https://github.com/SeymaAtmaca/NetworkScanner-With-ShellScript.git </code> <br>
